@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Areesha Tariq Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Machine Learning and its algorithm**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **khanareeshat@gmail.com**
 
