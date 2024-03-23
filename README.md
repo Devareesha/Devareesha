@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Areesha Tariq Khan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devareesha&label=Profile%20views&color=0e75b6&style=flat" alt="devareesha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devareesha" alt="devareesha" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning and its algorithm**
 
 - 📫 How to reach me **khanareeshat@gmail.com**
@@ -20,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devareesha&show_icons=true&locale=en&layout=compact" alt="devareesha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devareesha&show_icons=true&locale=en" alt="devareesha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devareesha&" alt="devareesha" /></p>
